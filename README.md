@@ -1,16 +1,16 @@
 # Portfolio-Website
 
-## 🎯 Objective
+##  Objective
 
 Create a professional, responsive portfolio website that showcases my skills, projects, and contact information. This serves as an online resume for job and internship opportunities.
 
-## 💻 Tech Stack
+##  Tech Stack
 - HTML
 - CSS
 - JavaScript (optional for features like dark mode)
 - Formspree (for Contact Form handling)
 
-## 🚀 Features
+##  Features
 - Clean and responsive design
 - About Me section
 - Skills section
@@ -18,5 +18,5 @@ Create a professional, responsive portfolio website that showcases my skills, pr
 - Working contact form
 - Smooth navigation
 
-## 📩 Contact
+##  Contact
 If you'd like to collaborate or have any questions, feel free to reach out using the contact form on the site.
