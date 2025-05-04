@@ -7,8 +7,8 @@ Create a professional, responsive portfolio website that showcases my skills, pr
 ##  Tech Stack
 - HTML
 - CSS
-- JavaScript (optional for features like dark mode)
-- Formspree (for Contact Form handling)
+- JavaScript 
+- Formspree 
 
 ##  Features
 - Clean and responsive design
