@@ -2,7 +2,7 @@
 
 ##  Objective
 
-Create a professional, responsive portfolio website that showcases my skills, projects, and contact information.
+Building a professional, responsive portfolio website that showcases my skills, projects, and contact information.
 
 ##  Tech Stack
 - HTML
